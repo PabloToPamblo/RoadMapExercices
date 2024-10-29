@@ -44,34 +44,3 @@ Run Script:
 ```
 
 The output will display CPU, memory, and disk usage along with the top 5 processes consuming the most CPU and memory.
-
-## Sample Output
-
-==========================================
-           SERVER PERFORMANCE STATS       
-==========================================
-CPU Usage:
-Total CPU usage: 32% (68% idle)
-------------------------------------------
-Memory Usage:
-Total Memory: 8.0G | Used: 3.5G | Free: 4.5G | Usage: 43.75%
-------------------------------------------
-Disk Usage:
-Total Disk Space: 50G | Used: 30G | Free: 20G | Usage: 60%
-------------------------------------------
-Top 5 Processes by CPU Usage:
-PID     COMMAND     %CPU
-1234    process1    25.0
-5678    process2    18.5
-9012    process3    10.0
-3456    process4    9.8
-7890    process5    8.7
-------------------------------------------
-Top 5 Processes by Memory Usage:
-PID     COMMAND     %MEM
-2345    process6    35.0
-6789    process7    30.0
-1234    process8    25.5
-5678    process9    20.0
-9012    process10   15.5
-==========================================
