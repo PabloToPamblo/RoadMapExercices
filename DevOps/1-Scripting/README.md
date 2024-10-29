@@ -40,8 +40,6 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/PabloToPamblo/RoadMapExercices.git
 cd server-stats
-chmod +x server-stats.sh
-./server-stats.sh
 ```
 
 Make the script executable
