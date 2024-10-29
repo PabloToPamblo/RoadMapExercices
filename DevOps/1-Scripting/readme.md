@@ -45,7 +45,7 @@ Run Script:
 
 The output will display CPU, memory, and disk usage along with the top 5 processes consuming the most CPU and memory.
 
-##Sample Output
+## Sample Output
 
 ==========================================
            SERVER PERFORMANCE STATS       
