@@ -44,3 +44,5 @@ Run Script:
 ```
 
 The output will display CPU, memory, and disk usage along with the top 5 processes consuming the most CPU and memory.
+
+Link to exercise: https://roadmap.sh/projects/server-stats
